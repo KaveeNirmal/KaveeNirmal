@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Java
 - 👨‍💻 All of my projects are available at Kaveesha Nirmal
-- 👀 I’m interested in Full Stack Development
+- 👀 I am interested in Full Stack Development and Graphic Design.
 - 📫 How to reach me gnpkaveeshanirmal@gmail.com
 - Graphic designer skilled in Photoshop, Illustrator, Canva, and more. Passionate about branding, digital art, and creative storytelling.
 
